@@ -1,7 +1,7 @@
 # Assessing Global Energy Trends  
 
 ## Project Overview  
-This project examines global energy trends, focusing on energy production, consumption, and their environmental impacts. The analysis explores changes in the shares of renewable energy, fossil fuel reliance, and their relationship with CO2 emissions. Additionally, the project emphasizes understanding statistical methods, analysis, and coding in R. Techniques such as hypothesis testing, bootstrapping, and regression analysis are applied to assess the significance of observed trends and correlations. The goal is to provide actionable insights into energy sustainability while enhancing technical proficiency in statistical analysis and data visualization.  click (here)[] for full project.
+This project examines global energy trends, focusing on energy production, consumption, and their environmental impacts. The analysis explores changes in the shares of renewable energy, fossil fuel reliance, and their relationship with CO2 emissions. Additionally, the project emphasizes understanding statistical methods, analysis, and coding in R. Techniques such as hypothesis testing, bootstrapping, and regression analysis are applied to assess the significance of observed trends and correlations. The goal is to provide actionable insights into energy sustainability while enhancing technical proficiency in statistical analysis and data visualization.  click [here](https://github.com/TasheikaW/Global-Energy-Trends/blob/8368158f95f952d9935301966a73fd4a50ebc32f/Global%20Energy%20Trend%20Analysis.pdf) for full project.
 
 ## Data Sources  
 - **Dataset**: Global energy statistics from Kaggle, sourced from Enerdata, covering 30 years (1990–2020).  
